@@ -21,10 +21,11 @@ http://fina.dyndns.tv/Peliculas/Rey%20Leon%202019.mp4
 http://fina.dyndns.tv/Peliculas/Aladdin.mkv
 #EXTINF:-1,El Resplandor
 http://fina.dyndns.tv/Peliculas/Shining.mkv
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
+#EXTINF:-1,Shrek 1
+http://pilarika.no-ip.org/Cine/Cine_06/062_-_Shrek_1.mp4
+#EXTINF:-1,Shrek 2
+http://pilarika.no-ip.org/Cine/Cine_06/063_-_Shrek_2.mp4
+#EXTINF:-1,Shrek 3
+http://pilarika.no-ip.org/Cine/Cine_06/064_-_Shrek_3.mp4
+#EXTINF:-1,Shrek 4
+http://pilarika.no-ip.org/Cine/Cine_06/065_-_Shrek_4_Felices_Para_Siempre.mp4
